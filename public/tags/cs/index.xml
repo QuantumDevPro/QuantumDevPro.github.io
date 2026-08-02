@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cs on Student Diary</title>
+    <link>http://localhost:1313/tags/cs/</link>
+    <description>Recent content in Cs on Student Diary</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operating Systems | نظم التشغيل</title>
+      <link>http://localhost:1313/levels/level-5/operating-systems/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-5/operating-systems/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Web Application Development | تطوير تطبيقات الويب</title>
+      <link>http://localhost:1313/levels/level-5/web-development/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-5/web-development/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Database Systems | نظم قواعد البيانات</title>
+      <link>http://localhost:1313/levels/level-4/database-systems/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-4/database-systems/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Software Engineering | هندسة برمجيات</title>
+      <link>http://localhost:1313/levels/level-4/software-engineering/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-4/software-engineering/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Algorithms &amp; Data Structures | الخوارزميات وتراكيب البيانات</title>
+      <link>http://localhost:1313/levels/level-3/algorithms/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-3/algorithms/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Discrete Structures | تراكيب منتظمة</title>
+      <link>http://localhost:1313/levels/level-1/discrete-structures/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-1/discrete-structures/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;No project for this course.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Programming 1 | برمجة (1)</title>
+      <link>http://localhost:1313/levels/level-1/programming-1/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-1/programming-1/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

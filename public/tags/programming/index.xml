@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on Student Diary</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on Student Diary</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2027 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Security | أمن البرمجيات</title>
+      <link>http://localhost:1313/levels/level-6/software-security/</link>
+      <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-6/software-security/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Web Application Development | تطوير تطبيقات الويب</title>
+      <link>http://localhost:1313/levels/level-5/web-development/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-5/web-development/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Programming 1 | برمجة (1)</title>
+      <link>http://localhost:1313/levels/level-1/programming-1/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-1/programming-1/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

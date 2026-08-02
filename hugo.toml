@@ -1,0 +1,46 @@
+baseURL = "https://QuantumDevPro.github.io/"
+title = "Student Diary"
+theme = "PaperMod"
+languageCode = "en-us"
+buildFuture = true
+paginate = 20
+
+[params]
+  disableSpecial1stPost = false
+  hideFooter = false
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  profileMode.enabled = true
+  profileMode.title = "Haneen Alharbi"
+  profileMode.subtitle = "Cybersecurity Bachelor Student | Learning in Public"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/QuantumDevPro"
+
+[menu]
+  [[menu.main]]
+    name = "Journey"
+    url = "/levels/"
+    weight = 1
+  [[menu.main]]
+    name = "Articles"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 20

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arabic on Student Diary</title>
+    <link>http://localhost:1313/tags/arabic/</link>
+    <description>Recent content in Arabic on Student Diary</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/arabic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arabic Communication Skills | مهارات اللغة العربية (2)</title>
+      <link>http://localhost:1313/levels/level-4/arabic-communication/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/levels/level-4/arabic-communication/</guid>
+      <description>&lt;h2 id=&#34;course-overview--نظرة-عامة-على-المادة&#34;&gt;Course Overview | نظرة عامة على المادة&lt;/h2&gt;
+&lt;h2 id=&#34;what-i-learned--ماذا-تعلمت&#34;&gt;What I Learned | ماذا تعلمت&lt;/h2&gt;
+&lt;h2 id=&#34;project--المشروع&#34;&gt;Project | المشروع&lt;/h2&gt;
+&lt;h2 id=&#34;honest-review--رأيي-الصريح&#34;&gt;Honest Review | رأيي الصريح&lt;/h2&gt;
+&lt;h2 id=&#34;advice--نصيحة&#34;&gt;Advice | نصيحة&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
