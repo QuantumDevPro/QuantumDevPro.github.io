@@ -2,20 +2,20 @@ baseURL = "https://quantumdevpro.github.io/"
 title = "Student Diary"
 theme = "PaperMod"
 languageCode = "en-us"
-buildFuture = true
 paginate = 20
+buildFuture = true
 
 [params]
-  disableSpecial1stPost = false
-  hideFooter = false
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowToc = true
-  profileMode.enabled = true
-  profileMode.title = "Haneen Alharbi"
-  profileMode.subtitle = "Cybersecurity Bachelor Student | Learning in Public"
+
+  [params.profileMode]
+    enabled = true
+    title = "Haneen Alharbi"
+    subtitle = "Cybersecurity Bachelor Student | Learning in Public"
 
   [[params.socialIcons]]
     name = "github"
