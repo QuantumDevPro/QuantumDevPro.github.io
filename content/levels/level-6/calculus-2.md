@@ -4,7 +4,7 @@ date: 2027-01-01
 draft: false
 level: "Level 6"
 status: "completed"
-tags: [math]
+tags: ["MATH"]
 ---
 
 ## Course Overview | نظرة عامة على المادة

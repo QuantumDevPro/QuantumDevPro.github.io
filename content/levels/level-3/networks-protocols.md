@@ -4,7 +4,7 @@ date: 2025-09-01
 draft: false
 level: "Level 3"
 status: "completed"
-tags: [networking,cybersecurity]
+tags: ["CYB"]
 ---
 
 ## Course Overview | نظرة عامة على المادة

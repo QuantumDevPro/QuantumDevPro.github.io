@@ -4,7 +4,7 @@ date: 2025-01-01
 draft: false
 level: "Level 2"
 status: "completed"
-tags: [ مبادئ نظم المعلومات]
+tags: ["IS"]
 ---
 
 ## Course Overview | نظرة عامة على المادة

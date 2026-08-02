@@ -4,7 +4,7 @@ date: 2025-01-01
 draft: false
 level: "Level 2"
 status: "completed"
-tags: [ تقنيات أنظمة تكنولوجيا المعلومات]
+tags: ["CS"]
 ---
 
 ## Course Overview | نظرة عامة على المادة

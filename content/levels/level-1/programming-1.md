@@ -4,7 +4,7 @@ date: 2024-09-01
 draft: false
 level: "Level 1"
 status: "completed"
-tags: ["programming", "cs"]
+tags: ["CS"]
 ---
 
 ## Course Overview | نظرة عامة على المادة

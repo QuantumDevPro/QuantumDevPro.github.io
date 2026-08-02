@@ -4,7 +4,7 @@ date: 2026-01-01
 draft: false
 level: "Level 4"
 status: "completed"
-tags: [cs,databases]
+tags: ["CS"]
 ---
 
 ## Course Overview | نظرة عامة على المادة
