@@ -1,4 +1,4 @@
-baseURL = "https://QuantumDevPro.github.io/"
+baseURL = "https://quantumdevpro.github.io/"
 title = "Student Diary"
 theme = "PaperMod"
 languageCode = "en-us"
