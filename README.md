@@ -1,4 +1,4 @@
-# 📓 Student Diary — Haneen Alharbi
+# 📓 Student Diary Cybersecurity@TU
 
 A personal website documenting my full journey through a **Cybersecurity Bachelor's degree** — level by level, course by course. Built to share honest reviews, real projects, and practical advice with anyone walking the same path.
 
