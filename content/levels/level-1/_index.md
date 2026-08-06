@@ -8,7 +8,7 @@ status: "completed"
 ---
 
 ## Overview | نظرة عامة
-Write a short summary of this level — how it felt, what was challenging, what surprised you.
+
 
 ## Advice | نصيحة
 What would you tell a student starting Level 1?

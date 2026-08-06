@@ -1,9 +1,17 @@
 baseURL = "https://quantumdevpro.github.io/"
 title = "Student Diary"
 theme = "PaperMod"
-languageCode = "en-us"
+languageCode = "ar-sa"
+defaultContentLanguage = "ar"
+defaultContentLanguageInSubdir = false
 paginate = 20
 buildFuture = true
+
+[languages]
+  [languages.ar]
+    languageName = "العربية"
+    languageDirection = "rtl"
+    weight = 1
 
 [params]
   defaultTheme = "dark"

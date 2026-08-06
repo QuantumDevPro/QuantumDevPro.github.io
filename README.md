@@ -1,8 +1,10 @@
-# 📓 Student Diary Cybersecurity@TU
+# 📓 Student Diary
 
-A personal website documenting my full journey through a **Cybersecurity Bachelor's degree** — level by level, course by course. Built to share honest reviews, real projects, and practical advice with anyone walking the same path.
+A personal website documenting my full journey through a **Cybersecurity Bachelor's degree at TU** — level by level, course by course. Built to share honest reviews, real projects, and practical advice with anyone walking the same path.
 
 🌐 **Live site:** [quantumdevpro.github.io](https://quantumdevpro.github.io)
+
+🌐 **Telegram:** [studentDiary](https://t.me/+PtCla0VVz0Y4NzVk)
 
 ---
 
