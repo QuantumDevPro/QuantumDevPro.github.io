@@ -1,13 +1,9 @@
 ---
-title: "Level 6 | المستوى السادس"
+title: " المستوى الثامن"
 date: 2027-01-01
-draft: true
+draft: false
 weight: 6
-description: "Sixth semester."
-status: "completed"
+description: "قريبََا"
+status: "planned"
 ---
 
-## Overview | نظرة عامة
-
-
-## Advice | نصيحة

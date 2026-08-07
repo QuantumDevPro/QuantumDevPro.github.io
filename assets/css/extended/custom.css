@@ -18,3 +18,7 @@ body, .post-content, h1, h2, h3, h4, .entry-header, .entry-content {
   direction: ltr;
   unicode-bidi: isolate;
 }
+
+.post-content blockquote {
+    padding-right: 20px;
+}

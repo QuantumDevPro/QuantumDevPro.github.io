@@ -1,14 +1,9 @@
 ---
-title: "Level 7 | المستوى السابع"
+title: " المستوى التاسع"
 date: 2027-09-01
-draft: true
+draft: false
 weight: 7
-description: "Seventh semester — coming soon."
+description: "قريبََا"
 status: "in-progress"
 ---
 
-## Overview | نظرة عامة
-_This level is currently in progress. Content will be added soon._
-
-## Advice | نصيحة
-_To be written._

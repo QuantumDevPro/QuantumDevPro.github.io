@@ -1,14 +1,8 @@
 ---
-title: "Level 8 | المستوى الثامن"
+title: " المستوى العاشر"
 date: 2028-01-01
-draft: true
+draft: false
 weight: 8
-description: "Eighth semester — coming soon."
-status: "planned"
+description: "قريبََا"
+status: "in-progress"
 ---
-
-## Overview | نظرة عامة
-_This level hasn't started yet. Content will be added when it begins._
-
-## Advice | نصيحة
-_To be written._

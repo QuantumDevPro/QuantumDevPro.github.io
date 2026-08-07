@@ -1,5 +1,5 @@
 ---
-title: "Programming 1 | برمجة (1)"
+title: "Programming 1 - برمجة (1)"
 date: 2024-09-01
 draft: false
 level: "Level 1"

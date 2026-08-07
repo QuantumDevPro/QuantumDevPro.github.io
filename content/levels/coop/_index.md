@@ -1,9 +1,9 @@
 ---
 title: "COOP | التدريب التعاوني"
 date: 2028-06-01
-draft: true
+draft: false
 weight: 9
-description: "Cooperative training — my real-world experience."
+description: "قريبََا"
 status: "planned"
 ---
 

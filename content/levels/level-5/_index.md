@@ -1,13 +1,9 @@
 ---
-title: "Level 5 | المستوى الخامس"
+title: " المستوى السابع"
 date: 2026-09-01
-draft: true
+draft: false
 weight: 5
-description: "Fifth semester."
-status: "completed"
+description: "قريبََا"
+status: "planned"
 ---
 
-## Overview | نظرة عامة
-
-
-## Advice | نصيحة

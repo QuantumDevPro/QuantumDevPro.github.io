@@ -1,0 +1,31 @@
+{{- define "main" }}
+<div class="post-single">
+  <div class="post-content">
+    {{ $content := .RawContent }}
+    {{ $parts := split $content "<!--split-->" }}
+    {{ index $parts 0 | markdownify }}
+  </div>
+
+  <div style="margin: 2rem 0;">
+    {{- range .Pages.ByParam "weight" }}
+    <article class="post-entry">
+      <header class="entry-header">
+        <h2>{{ .Title }}</h2>
+      </header>
+      <div class="entry-content">
+        <p>{{ .Description }}</p>
+      </div>
+      <footer class="entry-footer">
+        <a class="entry-link" href="{{ .Permalink }}"></a>
+      </footer>
+    </article>
+    {{- end }}
+  </div>
+
+  <div class="post-content">
+    {{ if gt (len $parts) 1 }}
+      {{ index $parts 1 | markdownify }}
+    {{ end }}
+  </div>
+</div>
+{{- end }}

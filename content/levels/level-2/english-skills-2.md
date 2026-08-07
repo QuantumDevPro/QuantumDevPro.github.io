@@ -1,22 +1,8 @@
 ---
-title: "English Communication Skills "
+title: "English Communication Skills - مهارات الاتصال"
 date: 2025-01-01
 draft: false
 level: "Level 2"
 status: "completed"
 tags: ["ENGL"]
 ---
-
-## Course Overview | نظرة عامة على المادة
-
-
-## What I Learned | ماذا تعلمت
-
-
-## Project | المشروع
-
-
-## Honest Review | رأيي الصريح
-
-
-## Advice | نصيحة

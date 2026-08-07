@@ -1,13 +1,9 @@
 ---
-title: "Level 3 | المستوى الثالث"
+title: " المستوى الخامس "
 date: 2025-09-01
-draft: true
+draft: false
 weight: 3
-description: "Third semester — where cybersecurity starts getting serious."
+description: "قريبََا"
 status: "completed"
 ---
 
-## Overview | نظرة عامة
-
-
-## Advice | نصيحة

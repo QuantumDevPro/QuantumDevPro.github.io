@@ -1,13 +1,8 @@
 ---
-title: "Level 4 | المستوى الرابع"
+title: " المستوى السادس"
 date: 2026-01-01
-draft: true
+draft: false
 weight: 4
-description: "Fourth semester."
+description: "قريبََا"
 status: "completed"
 ---
-
-## Overview | نظرة عامة
-
-
-## Advice | نصيحة
