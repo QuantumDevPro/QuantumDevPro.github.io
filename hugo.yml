@@ -42,7 +42,7 @@ menu:
     - name: "البكالوريوس"
       url: "/levels/"
       weight: 1
-    - name: "االمقالات"
+    - name: "المقالات"
       url: "/posts/"
       weight: 2
     - name: "الوسوم"
