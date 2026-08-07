@@ -1,17 +1,43 @@
 ---
-title: "About | عن الموقع"
+title: " About Me "
 date: 2024-09-01
 draft: false
 ---
 
-## Who Am I | من أنا
-Write a short intro about yourself — your name, where you study, what you're studying.
+<div style="font-family: monospace; color: #4ade80; margin-bottom: 1rem;">
+$ whoami
+</div>
 
-## Why This Site | لماذا هذا الموقع
-This site documents my full journey through my Cybersecurity bachelor's degree — level by level, course by course. My goal is to share honest reviews, practical advice, and real projects with anyone walking the same path.
+مرحباً — أنا حنين الحربي، طالبة في السنة الأخيرة بتخصص الأمن السيبراني في جامعة طيبة.
 
-## The Journey | الرحلة
-8 levels. Every course documented. Every lesson shared.
+شغفي بالحاسوب بدأ من صغري — حذفت ويندوز مرة كاملة بالغلط، وركّبت لينكس مزدوجاً أكثر من مرة، وكل هذا قبل ما أعرف معنى "سيبراني". 
 
-## Contact | تواصل
-- GitHub: [your-username](https://github.com/your-username)
+اليوم أنا في طريقي لإتمام تخصص الأمن السيبراني من **أكاديمية KAUST** بالشراكة مع **الهيئة الوطنية للأمن السيبراني (NCA)** و**SITE**.
+
+---
+
+<div style="font-family: monospace; color: #4ade80; margin-bottom: 1rem;">
+$ cat why-this-site.txt
+</div>
+
+هذه الصفحة هي رحلتي بالكامل — مستوى بمستوى، مادة بمادة.
+
+مش دليل رسمي، ولا مصدر أكاديمي. هي تجربة شخص مر من نفس الطريق وأراد يشارك ما تعلمه بصدق — المواد اللي تعبت فيها، المشاريع اللي فخور فيها، والنصائح اللي تمنيت أحد يقولها لي من البداية.
+
+إذا كنت طالب سيبراني وتحس إنك تقرأ تجربة صديق مر منه — فهذا بالضبط المقصود.
+
+---
+
+<div style="font-family: monospace; color: #4ade80; margin-bottom: 1rem;">
+$ ls resources/
+</div>
+
+أشارك أيضاً على **Telegram** مذكرات، لابات، ملاحظات، مشاريع، وأدوات مفيدة مريت فيها خلال الدراسة.
+
+📬 القناة: [مذكرات طالب](https://t.me/your-channel-link)
+
+---
+
+<div style="font-family: monospace; color: #4ade80;">
+$ echo "يلا نبدأ"
+</div>

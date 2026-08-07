@@ -26,6 +26,9 @@ params:
   socialIcons:
     - name: "github"
       url: "https://github.com/QuantumDevPro"
+    - name: "kofi"
+      url: "https://ko-fi.com/studentdiary"
+  comments: true
 
 menu:
   main:
