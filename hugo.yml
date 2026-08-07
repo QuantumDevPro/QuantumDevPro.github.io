@@ -1,0 +1,46 @@
+baseURL: "https://quantumdevpro.github.io/"
+title: "Student Diary"
+theme: "PaperMod"
+languageCode: "ar-sa"
+defaultContentLanguage: "ar"
+defaultContentLanguageInSubdir: false
+paginate: 20
+buildFuture: true
+
+languages:
+  ar:
+    languageName: "العربية"
+    languageDirection: "rtl"
+    weight: 1
+
+params:
+  defaultTheme: "dark"
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowToc: true
+  profileMode:
+    enabled: true
+    title: "Haneen Alharbi"
+    subtitle: "Cybersecurity Bachelor Student | Learning in Public"
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/QuantumDevPro"
+
+menu:
+  main:
+    - name: "Journey"
+      url: "/levels/"
+      weight: 1
+    - name: "Articles"
+      url: "/posts/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+    - name: "Tags"
+      url: "/tags/"
+      weight: 4
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
