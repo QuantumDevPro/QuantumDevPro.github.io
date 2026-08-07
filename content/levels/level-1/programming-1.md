@@ -33,7 +33,15 @@ https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/
 أنصحكم بعد كل شابتر راجعو منه لأن اسئلة الميدات والفاينل حرفيًا نسخ لصق منه
 
 شباتر البرمجة لذي السنة :
-check the telegram
+[Chapter1](https://t.me/studentDiaryDisk/3)
+[Chapter2](https://t.me/studentDiaryDisk/4)
+[Chapter3](https://t.me/studentDiaryDisk/5)
+[Chapter4](https://t.me/studentDiaryDisk/6)
+[Chapter5](https://t.me/studentDiaryDisk/7)
+[Chapter6](https://t.me/studentDiaryDisk/8)
+[Chapter7](https://t.me/studentDiaryDisk/9)
+[Chapter8](https://t.me/studentDiaryDisk/10)
+[LAB_manual](https://t.me/studentDiaryDisk/11)
 
 
 ### البرنامج الرهيب 
