@@ -1,7 +1,7 @@
 ---
 title: "Level 8 | المستوى الثامن"
 date: 2028-01-01
-draft: false
+draft: true
 weight: 8
 description: "Eighth semester — coming soon."
 status: "planned"

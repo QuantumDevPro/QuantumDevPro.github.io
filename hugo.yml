@@ -28,6 +28,12 @@ params:
       url: "https://github.com/QuantumDevPro"
     - name: "kofi"
       url: "https://ko-fi.com/studentdiary"
+    - name: "linkedin"
+      url: "https://sa.linkedin.com/in/haneen-alharsani"
+    - name: "telegram"
+      url: "https://t.me/+PtCla0VVz0Y4NzVk"
+    - name: "youtube"
+      url: "https://www.youtube.com/@madoka_han"
   comments: true
 
 menu:

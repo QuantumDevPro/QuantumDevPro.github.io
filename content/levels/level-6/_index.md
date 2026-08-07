@@ -1,7 +1,7 @@
 ---
 title: "Level 6 | المستوى السادس"
 date: 2027-01-01
-draft: false
+draft: true
 weight: 6
 description: "Sixth semester."
 status: "completed"

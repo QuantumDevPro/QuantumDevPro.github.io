@@ -1,7 +1,7 @@
 ---
 title: "Level 4 | المستوى الرابع"
 date: 2026-01-01
-draft: false
+draft: true
 weight: 4
 description: "Fourth semester."
 status: "completed"

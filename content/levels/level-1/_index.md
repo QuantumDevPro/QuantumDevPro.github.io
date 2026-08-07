@@ -1,7 +1,7 @@
 ---
 title: "المستوى الثالث"
 date: 2024-09-01
-draft: false
+draft: true
 weight: 1
 description: "First semester — the foundation. My first step into the program."
 status: "completed"
