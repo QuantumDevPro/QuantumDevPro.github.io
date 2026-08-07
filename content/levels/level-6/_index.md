@@ -1,7 +1,7 @@
 ---
 title: " المستوى الثامن"
 date: 2027-01-01
-draft: false
+draft: true
 weight: 6
 description: "قريبََا"
 status: "planned"
