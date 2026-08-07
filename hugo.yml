@@ -1,5 +1,5 @@
 baseURL: "https://quantumdevpro.github.io/"
-title: "Student Diary"
+title: "مذكرات طالب"
 theme: "PaperMod"
 languageCode: "ar-sa"
 defaultContentLanguage: "ar"
@@ -21,6 +21,9 @@ params:
   ShowToc: true
   profileMode:
     enabled: true
+    imageUrl: "images/logo2.jpg"
+    imageWidth: 120
+    imageHeight: 120
     title: "Haneen Alharbi"
     subtitle: "Cybersecurity Bachelor Student | Learning in Public"
   socialIcons:
@@ -36,16 +39,13 @@ params:
 
 menu:
   main:
-    - name: "Journey"
+    - name: "البكالوريوس"
       url: "/levels/"
       weight: 1
-    - name: "Articles"
+    - name: "االمقالات"
       url: "/posts/"
       weight: 2
-    - name: "About"
-      url: "/about/"
-      weight: 3
-    - name: "Tags"
+    - name: "الوسوم"
       url: "/tags/"
       weight: 4
 
