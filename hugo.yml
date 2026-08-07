@@ -26,8 +26,6 @@ params:
   socialIcons:
     - name: "github"
       url: "https://github.com/QuantumDevPro"
-    - name: "kofi"
-      url: "https://ko-fi.com/studentdiary"
     - name: "linkedin"
       url: "https://sa.linkedin.com/in/haneen-alharsani"
     - name: "telegram"
