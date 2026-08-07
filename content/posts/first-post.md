@@ -3,7 +3,7 @@ title: "مرحباً بكم في مذكرات طالب"
 date: 2026-08-02
 draft: false
 tags: ["Journey"]
-description: "My cybersecurity bachelor journey."
+description: "رحلتي في الأمن السيبراني"
 ---
 
 أهلًا أيها الرفاق، كيف حالكم ؟
