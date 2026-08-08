@@ -51,14 +51,16 @@ Each course page covers:
 
 | Level | Status |
 |---|---|
-| Level 1 | 🔄 In Progress |
-| Level 2 | 🔄 In Progress |
-| Level 3 | 🔄 In Progress |
-| Level 4 | 🔄 In Progress |
-| Level 5 | 🔄 In Progress |
+| Level 1 | 🔜 Planned |
+| Level 2 | 🔜 Planned |
+| Level 3 | ✅ Completed |
+| Level 4 | ✅ Completed |
+| Level 5 | ✅ Completed |
 | Level 6 | 🔄 In Progress |
-| Level 7 | 🔄 In Progress |
-| Level 8 | ✅ Completed |
+| Level 7 | ✅ Completed |
+| Level 8 | 🔄 In Progress |
+| Level 9 | 🔜 Planned |
+| Level 10 | 🔜 Planned |
 | COOP | 🔜 Planned |
 
 ## Tech Stack
