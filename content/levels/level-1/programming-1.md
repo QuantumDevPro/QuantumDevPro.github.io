@@ -55,7 +55,7 @@ https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/
 3. تنشرون الكود على حسابكم.
 بعدين تقدرو تطلعوه كpdf أو ترسلو نفس الرابط للصفحة اللي فيها كودكم.
 
-- الموقع : [`https://pastebin.com/#google_vignette`](https://pastebin.com/#google_vignette)
+- الموقع : [`pastebin`](https://pastebin.com/#google_vignette)
 
 - مثال لكود يقدم خدمات إنشاء كلمات مرور للمستخدم : `https://pastebin.com/dBrEyj7E`
 

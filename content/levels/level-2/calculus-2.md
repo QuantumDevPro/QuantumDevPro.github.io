@@ -16,6 +16,6 @@ tags: ["MATH"]
 
 [هذا](https://youtube.com/playlist?list=PL9Wpt_Gy1cXzi3ilJRUbOwHrkdDVuP4pa&si=EQtxw11Zbs3caEpy) بعد شرح حلو لكن مافيه كل الدروس.
 
-السلايدات اللي درسناها:
+السلايدات اللي درسناها: https://t.me/studentDiaryDisk/42
 
-حلول الواجبات:
+حلول الواجبات: https://t.me/studentDiaryDisk/44
