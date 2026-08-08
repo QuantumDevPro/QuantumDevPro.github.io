@@ -11,4 +11,4 @@ tags: ["CYB"]
 
 كان فيها 3 مشاريع صغيرة، بين المشروع واللاب، وهي فقط كانت المطلوب مننا
 
-https://t.me/studentDiaryDisk/57
+[المشاريع](https://t.me/studentDiaryDisk/57)

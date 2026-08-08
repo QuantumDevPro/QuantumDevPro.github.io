@@ -10,7 +10,7 @@ tags: ["CS"]
 المادة من أمتع المواد، تعتمد على الفهم العميق للكود البرمجي والجزء النظري والتدريب المستمر.
 الhash map لم يتم تغطيتها في المنهج، لكن أعتقد أنها مهمة فأنصح بفهمها والتدرب عليها.
 مصادر الدراسة:
-- قناة {https://www.youtube.com/@kunalkushwaha} في اليوتيوب رائعة ومستوى التعليم فيها عالمي.
+- قناة {[https://www.youtube.com/@kunalkushwaha](https://www.youtube.com/@kunalkushwaha)} في اليوتيوب رائعة ومستوى التعليم فيها عالمي.
 - ⁠كتاب {Introduction to Java Programming and Data Structures, Comprehensive Version (11th Edition)} نفس كتاب برمجة 1، و2، التدريبات فيه ممتازة وشرح الكود واضح
 - ⁠مواقع الvirtualization مفيدة جدًا بفهم الكود وكيف يشتغل، المواقع كثيره بمجرد ما تبحثون عن اسم الخوارزميه مع كلمة virtualization بتطلع لكم خيارات كثيره تقدرون تختارون منها
 - ⁠مواضيع يُفضل تراجعونها قبل البدء في المقرر: loops, classes ans objects, inner classes, methods
