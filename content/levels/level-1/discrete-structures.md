@@ -1,5 +1,5 @@
 ---
-title: "Discrete Structures - تراكيب منتظمة"
+title: "Discrete Structures - تراكيب منفصلة"
 date: 2024-09-01
 draft: false
 level: "Level 1"
