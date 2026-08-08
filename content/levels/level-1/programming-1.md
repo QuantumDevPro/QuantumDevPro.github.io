@@ -57,7 +57,7 @@ https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_12/cw/
 
 - الموقع : [`pastebin`](https://pastebin.com/#google_vignette)
 
-- مثال لكود يقدم خدمات إنشاء كلمات مرور للمستخدم : `https://pastebin.com/dBrEyj7E`
+- مثال لكود يقدم خدمات إنشاء كلمات مرور للمستخدم : [`https://pastebin.com/dBrEyj7E`](https://pastebin.com/dBrEyj7E)
 
 بخصوص الخصوصي فيه عدد منهم بقروب الكلية، بس شخصيًا ما اشتركت مع أحد، وأشوف ان البرمجة من المواد اللي تقدرون تجيبون فيها درجة بدونه، دام عندكم اليوتيوب وتقدرون تطبقون فالكم الآي بلس بإذن الله 🙏🏻🙏🏻🙏🏻
 
