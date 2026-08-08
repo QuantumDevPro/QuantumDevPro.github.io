@@ -13,14 +13,16 @@ A personal website documenting my full journey through a **Cybersecurity Bachelo
 ```
 content/
 ├── levels/
-│   ├── level-2/        # Physics, Programming 1, Calculus 1, English Skills 1, Discrete Structures
-│   ├── level-3/        # Programming 2, Calculus 2, Information Systems, Information Technology, English Skills 2
-│   ├── level-4/        # Cybersecurity Fundamentals, Networks & Protocols, Algorithms, Linear Algebra, Leadership, Islamic Studies
-│   ├── level-5/        # Encryption, Software Engineering, Database Systems, Arabic Communication, English Digital Skills
-│   ├── level-6/        # Web Development, Operating Systems, Cyber Threats, Islamic Ethics
-│   ├── level-7/        # Network Security, Software Security, Cybersecurity Design, Policies & Ethics, and more
-│   ├── level-8/        # 🔒 Planned
+│   ├── level-1/        # 🔒 Planned
+│   ├── level-2/        # 🔒 Planned
+│   ├── level-3/        # Physics, Programming 1, Calculus 1, English Skills 1, Discrete Structures
+│   ├── level-4/        # Programming 2, Calculus 2, Information Systems, Information Technology, English Skills 2
+│   ├── level-5/        # Cybersecurity Fundamentals, Networks & Protocols, Algorithms, Linear Algebra, Leadership, Islamic Studies
+│   ├── level-6/        # Encryption, Software Engineering, Database Systems, Arabic Communication, English Digital Skills
+│   ├── level-7/        # Web Development, Operating Systems, Cyber Threats, Islamic Ethics
+│   ├── level-8/        # Network Security, Software Security, Cybersecurity Design, Policies & Ethics, and more
 │   ├── level-9/        # 🔒 Planned
+│   ├── level-10/        # 🔒 Planned
 │   └── coop/           # 🔒 Cooperative training — coming soon
 ├── posts/              # Articles: camps, events, competitions, extra topics
 └── about/              # My story and goals
